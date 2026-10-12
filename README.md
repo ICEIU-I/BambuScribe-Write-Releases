@@ -1,13 +1,11 @@
 # BambuScribe Write 下载
 
-[下载 macOS 测试版 0.1.2](https://github.com/ICEIU-I/BambuScribe-Write-Releases/releases/tag/v0.1.2)
+[下载 macOS 版 0.1.3](https://github.com/ICEIU-I/BambuScribe-Write-Releases/releases/tag/v0.1.3)
 
-适用于 Apple Silicon（M 系列）Mac，macOS 13 及以上。打开 DMG，将 `BambuScribe Write.app` 拖入 Applications。
+适用于 M 系列 Mac，macOS 13 及以上。打开 DMG，将应用拖入 Applications。
 
-0.1.2 改善正文选字，支持框选多个对象后整体拖动，并改进表格字号及导入文字空格。0.1.1 用户可点击侧栏底部“检查更新”或“帮助 → 检查更新”，一键更新并重启；0.1.0 用户需手动安装本版。
+0.1.3 新增后台检查更新与侧栏红点提醒。0.1.1 及以上版本可在应用内点击“检查更新”升级。
 
-测试版尚未经过 Apple 公证。若系统提示无法验证开发者，先尝试打开，再到“系统设置 → 隐私与安全性”选择“仍要打开”。
+安装帮助见安装包内 `安装说明.txt`；[历史版本](https://github.com/ICEIU-I/BambuScribe-Write-Releases/releases)。
 
-提供纸面编辑、手写排版、图片线稿、可编辑表格、CCF 项目和 A1 局域网上传。字库与系统 OCR 随应用可用；可选 Python OCR 模型及智能导入服务需自行配置。连接 A1 前请完成笔架安装、归零、笔尖定位和高度校准，并以短句试写。
-
-此仓库仅托管安装包、校验文件和说明，开发仓库保持私有。基于 [Animesh-Varma/BambuScribe](https://github.com/Animesh-Varma/BambuScribe)，沿用 [GPL-3.0](LICENSE)。软件接收者获取对应源码的权利保留，见[源码获取说明](SOURCE-ACCESS.md)。
+基于 [Animesh-Varma/BambuScribe](https://github.com/Animesh-Varma/BambuScribe)，沿用 [GPL-3.0](LICENSE)。[源码获取说明](SOURCE-ACCESS.md)。
