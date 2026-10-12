@@ -1,10 +1,10 @@
 # BambuScribe Write 下载
 
-[下载 macOS 测试版](https://github.com/ICEIU-I/BambuScribe-Write-Releases/releases/tag/v0.1.1)
+[下载 macOS 测试版 0.1.2](https://github.com/ICEIU-I/BambuScribe-Write-Releases/releases/tag/v0.1.2)
 
 适用于 Apple Silicon（M 系列）Mac，macOS 13 及以上。打开 DMG，将 `BambuScribe Write.app` 拖入 Applications。
 
-0.1.1 新增 App 内更新：点击侧栏底部“检查更新”或“帮助 → 检查更新”，有新版本时可一键更新并重启。0.1.0 需先手动安装本版。
+0.1.2 改善正文选字，支持框选多个对象后整体拖动，并改进表格字号及导入文字空格。0.1.1 用户可点击侧栏底部“检查更新”或“帮助 → 检查更新”，一键更新并重启；0.1.0 用户需手动安装本版。
 
 测试版尚未经过 Apple 公证。若系统提示无法验证开发者，先尝试打开，再到“系统设置 → 隐私与安全性”选择“仍要打开”。
 
